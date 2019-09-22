@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Looping for Beginners"
-date:       2019-09-22 00:52:43 +0000
+date:       2019-09-21 20:52:44 -0400
 permalink:  looping_for_beginners
 ---
 
